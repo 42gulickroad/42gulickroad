@@ -33,7 +33,7 @@ function Footer() {
 
 
             {/* Copyrights note */}
-            <div className="text-gray-400 text-sm mr-4">&copy; Bill Hare - bill@miplaw.com</div>
+            <div className="text-gray-400 text-sm mr-4">&copy; Bill Hare - familyhare@gmail.com</div>
 
           </div>
 

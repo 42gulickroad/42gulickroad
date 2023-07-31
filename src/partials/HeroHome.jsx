@@ -45,7 +45,7 @@ function HeroHome() {
               Welcome to 42 Gulick Road
             </h1>
             <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">
-              A modern and sleek showcase for a beautiful home in the Littlebrook community
+              A modern and sleek showcase for a beautiful home in the Littlebrook community - scheduled for completion in September 2023
             </p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
     
